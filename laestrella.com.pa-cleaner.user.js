@@ -7,7 +7,6 @@
 // @include     *laestrella.com.pa/*
 // @exclude     *laestrella.com.pa/
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require			http://openuserjs.org/src/libs/swordf1zh/laestrella.com.pa-cleaner.user.js
 // @license	    MIT License; http://www.opensource.org/licenses/mit-license.php
 // @copyright   2014, Ricardo Tribaldos (http://ricardo.tribaldos.org/)
 // @grant       none
